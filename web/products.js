@@ -17,7 +17,7 @@ let arr = [
     "location": "BRADFORD.",
     "price": 18.00,
     "image": "math2.jpg",
-    "availableInventory": 25,
+    "availableInventory": 10,
     "rating": 4
   },
   {
