@@ -28,6 +28,7 @@
                 <!-- disable="disable" v-else -->
             </button>
             <!-- Shopping ca -->
+            <div style="display: flex; flex-wrap: wrap;" v-show="display">
             <div v-for="product in mysecondcart">
                 <h2 v-text="product.subject"></h2>
                 <figure>
