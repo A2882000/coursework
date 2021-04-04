@@ -49,7 +49,7 @@ let arr = [
     "location": "CHESTER.",
     "price": 20.00,
     "image": "bio.jpg",
-    "availableInventory": 25,
+    "availableInventory": 10,
     "rating": 4
   },
   {
