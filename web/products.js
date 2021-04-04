@@ -38,7 +38,7 @@ let arr = [
     "location": "CONTERBURY!",
     "price": 13.00,
     "image": "chemistry.png",
-    "availableInventory": 11,
+    "availableInventory": 10,
     "rating": 5
   },
   
