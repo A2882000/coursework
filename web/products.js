@@ -60,7 +60,7 @@ let arr = [
       "location":"GLASGOW",
       "price": 9.90,
       "image": "animalhusbandry20.jpg",
-      "availableInventory": 12,
+      "availableInventory": 10,
       "rating": 5
     },
     {
